@@ -8,6 +8,7 @@ end
 def main()
 
     hoge( [0..9] )
+    p "Keisuke Hata"
 
 end
 
